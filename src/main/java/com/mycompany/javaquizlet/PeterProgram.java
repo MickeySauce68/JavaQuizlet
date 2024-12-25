@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.javaquizlet;
+package com.mycompany.peterprogram;
 
 import javax.swing.JFrame;
 
@@ -27,11 +27,6 @@ public class PeterProgram {
 
         // Make the window visible
         frame.setVisible(true);
-    
-   
-    
-    
-        
         
         
     }
