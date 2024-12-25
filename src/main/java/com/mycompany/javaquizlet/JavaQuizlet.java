@@ -11,7 +11,18 @@ package com.mycompany.javaquizlet;
  */
 public class JavaQuizlet {
 
+    //Git is used for major updates - sidnote for future Everett
+    
+     
+    
+    
+    
+    
+    
+    
+    
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("THIS IS A PUBLIC SERVICE ANNOUNCEMENT");
+        System.out.println("This is only a test.");
     }
 }
